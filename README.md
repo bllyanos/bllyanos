@@ -5,3 +5,4 @@
 - 🚀 Creator of [Shakes-PR.dev](https://shakes-pr.dev)
 - 🐦 Connect with me on [x.com/bllyanos](https://x.com/bllyanos)
 - 🌱 I love exploring new programming languages, frameworks, and interesting developer tools.
+- 🖥️ Enthusiastic user of **Neovim** and **Linux**—I enjoy writing code and commands via the terminal and CLI apps.
